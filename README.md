@@ -31,8 +31,3 @@ Everything here is built from scratch — no templates, no copy/paste projects.
 - Deploy and maintain projects
 
 ---
-
-## About This Profile
-
-This is where I share projects, experiments, and things I'm currently working on.
-Simple code. Clear structure. Real builds.
