@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**zachary-adam/zachary-adam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Zachary Adam, a Full-Stack Developer.
 
-Here are some ideas to get you started:
+I build web applications from frontend to backend.
+Focused on clean code and scalable systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Everything here is built from scratch — no templates, no copy/paste projects.
+
+---
+
+## Tools & Tech
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Next.js
+- Python
+- Django
+- PHP
+- C++
+
+---
+
+## What I Do
+
+- Build full-stack web applications
+- Design APIs and backend systems
+- Work with databases
+- Deploy and maintain projects
+
+---
+
+## About This Profile
+
+This is where I share projects, experiments, and things I'm currently working on.
+Simple code. Clear structure. Real builds.
