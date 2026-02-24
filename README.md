@@ -1,51 +1,118 @@
-# 🚀 Zachary Adam
-### **Full-Stack Engineer | System Architect**
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zachary Adam - Full-Stack Developer</title>
+  <style>
+    /* Reset & Base */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
 
-<p align="center">
-  <img src="https://img.freepik.com/premium-photo/anime-programmer-working-code_1282444-263455.jpg" width="100%" alt="Zachary Adam Banner" style="border-radius: 10px;">
-</p>
+    body {
+      background-color: #ffffff;
+      color: #000000;
+      line-height: 1.6;
+      display: flex;
+      justify-content: center;
+      padding: 40px 20px;
+    }
 
-> **"Crafting scalable digital ecosystems from the first line of code to the final deployment. No shortcuts, no templates—just pure engineering."**
+    .container {
+      max-width: 900px;
+      width: 100%;
+    }
 
----
+    h1 {
+      font-size: 3rem;
+      margin-bottom: 10px;
+    }
 
-## 🛠️ Technical Arsenal
+    h2 {
+      font-size: 2rem;
+      margin: 20px 0 10px;
+      border-bottom: 2px solid #000;
+      display: inline-block;
+      padding-bottom: 5px;
+    }
 
-I specialize in building cohesive, high-performance applications using a modern stack optimized for speed and scalability.
+    p {
+      font-size: 1.1rem;
+      margin-bottom: 15px;
+    }
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | `React` • `Next.js` • `Tailwind CSS` • `JavaScript (ES6+)` |
-| **Backend** | `Python` • `Django` • `PHP` • `C++` |
-| **Data & DevOps** | `PostgreSQL` • `RESTful APIs` • `System Design` • `Cloud Deployment` |
+    ul {
+      list-style-type: none;
+      margin: 10px 0 20px;
+      padding-left: 0;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
 
----
+    li {
+      background: #f0f0f0;
+      padding: 8px 15px;
+      border-radius: 5px;
+      font-weight: 500;
+    }
 
-## 🏗️ Core Competencies
+    section {
+      margin-bottom: 40px;
+    }
 
-* **End-to-End Development:** Architecting seamless user experiences paired with robust, secure backends.
-* **Performance Optimization:** Writing clean, dry code that scales without breaking a sweat.
-* **System Design:** Designing modular APIs and database schemas built for growth.
-* **Low-Level Logic:** Leveraging C++ for performance-critical components when standard web tech isn't enough.
+    .section-title {
+      margin-bottom: 15px;
+    }
 
----
+    @media (max-width: 600px) {
+      h1 {
+        font-size: 2.2rem;
+      }
+      h2 {
+        font-size: 1.5rem;
+      }
+      li {
+        font-size: 0.95rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <section>
+      <h1>Zachary Adam 👋</h1>
+      <p>I'm a Full-Stack Developer. I build web applications from frontend to backend with a focus on clean code and scalable systems. Everything here is built from scratch — no templates, no copy/paste projects.</p>
+    </section>
 
-## 💎 The "Zero-Template" Promise
-In a world of copy-paste solutions, I prioritize **originality and precision**. Every project I touch is:
+    <section>
+      <h2 class="section-title">Tools & Tech</h2>
+      <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>React</li>
+        <li>Next.js</li>
+        <li>Python</li>
+        <li>Django</li>
+        <li>PHP</li>
+        <li>C++</li>
+      </ul>
+    </section>
 
-1.  **Hand-coded** for maximum control and security.
-2.  **Optimized** specifically for the unique needs of the user.
-3.  **Future-proofed** through disciplined documentation and architecture.
-
----
----
-
-## 📈 Connect With Me
-
-| Platform | Link |
-| :--- | :--- |
-| 🌐 **Portfolio** | [zacharyadam.dev](#) |
-| 💼 **LinkedIn** | [linkedin.com/in/zacharyadam](#) |
-| 📧 **Email** | [hello@zacharyadam.dev](mailto:hello@zacharyadam.dev) |
-
----
+    <section>
+      <h2 class="section-title">What I Do</h2>
+      <ul>
+        <li>Build full-stack web applications</li>
+        <li>Design APIs and backend systems</li>
+        <li>Work with databases</li>
+        <li>Deploy and maintain projects</li>
+      </ul>
+    </section>
+  </div>
+</body>
+</html>
