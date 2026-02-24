@@ -25,11 +25,9 @@ I build web applications from frontend to backend with a focus on clean code and
 
 ---
 
-## 📊 Stats & Activity
-
-![Zachary's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent)
-
 ---
 
 ### Let's Connect
 [LinkedIn](your-link-here) | [Portfolio](your-link-here) | [Email](mailto:your-email@example.com)
+
+---
