@@ -1,3 +1,5 @@
+![Cool Image](https://img.freepik.com/premium-photo/anime-programmer-working-code_1282444-263455.jpg)
+
 # Hey there 👋
 
 I'm Zachary Adam, a Full-Stack Developer.
