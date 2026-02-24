@@ -1,118 +1,35 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Zachary Adam - Full-Stack Developer</title>
-  <style>
-    /* Reset & Base */
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    }
+# Zachary Adam 👋
 
-    body {
-      background-color: #ffffff;
-      color: #000000;
-      line-height: 1.6;
-      display: flex;
-      justify-content: center;
-      padding: 40px 20px;
-    }
+**Full-Stack Developer**
 
-    .container {
-      max-width: 900px;
-      width: 100%;
-    }
+I build web applications from frontend to backend with a focus on clean code and scalable systems. Everything I create is built from scratch — no templates, no copy/paste projects.
 
-    h1 {
-      font-size: 3rem;
-      margin-bottom: 10px;
-    }
+---
 
-    h2 {
-      font-size: 2rem;
-      margin: 20px 0 10px;
-      border-bottom: 2px solid #000;
-      display: inline-block;
-      padding-bottom: 5px;
-    }
+## 🛠 Tools & Tech
 
-    p {
-      font-size: 1.1rem;
-      margin-bottom: 15px;
-    }
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | HTML5, CSS3, JavaScript, React, Next.js |
+| **Backend** | Python, Django, PHP, C++ |
+| **Other** | API Design, Database Management, Deployment |
 
-    ul {
-      list-style-type: none;
-      margin: 10px 0 20px;
-      padding-left: 0;
-      display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
-    }
+---
 
-    li {
-      background: #f0f0f0;
-      padding: 8px 15px;
-      border-radius: 5px;
-      font-weight: 500;
-    }
+## 🚀 What I Do
 
-    section {
-      margin-bottom: 40px;
-    }
+* **Full-Stack Development:** Crafting end-to-end web applications.
+* **System Architecture:** Designing robust APIs and backend infrastructures.
+* **Data Management:** Working with relational and non-relational databases.
+* **DevOps:** Deploying and maintaining scalable production environments.
 
-    .section-title {
-      margin-bottom: 15px;
-    }
+---
 
-    @media (max-width: 600px) {
-      h1 {
-        font-size: 2.2rem;
-      }
-      h2 {
-        font-size: 1.5rem;
-      }
-      li {
-        font-size: 0.95rem;
-      }
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <section>
-      <h1>Zachary Adam 👋</h1>
-      <p>I'm a Full-Stack Developer. I build web applications from frontend to backend with a focus on clean code and scalable systems. Everything here is built from scratch — no templates, no copy/paste projects.</p>
-    </section>
+## 📊 Stats & Activity
 
-    <section>
-      <h2 class="section-title">Tools & Tech</h2>
-      <ul>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>JavaScript</li>
-        <li>React</li>
-        <li>Next.js</li>
-        <li>Python</li>
-        <li>Django</li>
-        <li>PHP</li>
-        <li>C++</li>
-      </ul>
-    </section>
+![Zachary's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent)
 
-    <section>
-      <h2 class="section-title">What I Do</h2>
-      <ul>
-        <li>Build full-stack web applications</li>
-        <li>Design APIs and backend systems</li>
-        <li>Work with databases</li>
-        <li>Deploy and maintain projects</li>
-      </ul>
-    </section>
-  </div>
-</body>
-</html>
+---
+
+### Let's Connect
+[LinkedIn](your-link-here) | [Portfolio](your-link-here) | [Email](mailto:your-email@example.com)
