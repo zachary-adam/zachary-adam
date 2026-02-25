@@ -6,7 +6,7 @@ I build web applications from frontend to backend with a focus on clean code and
 
 ---
 
-## 🛠 Tools & Tech
+## Tools & Tech
 
 | Category | Technologies |
 | :--- | :--- |
@@ -16,7 +16,7 @@ I build web applications from frontend to backend with a focus on clean code and
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 * **Full-Stack Development:** Crafting end-to-end web applications.
 * **System Architecture:** Designing robust APIs and backend infrastructures.
